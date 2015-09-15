@@ -1,0 +1,6 @@
+# AES C Demo
+
+After cloning:
+
+1. gcc aes.c -o aes
+2. ./aes [e|d]
